@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+pandas
+networkx
+torch-geometric
+matplotlib
